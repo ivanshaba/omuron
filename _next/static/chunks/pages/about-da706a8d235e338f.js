@@ -208,11 +208,16 @@
         {
           id: "a3",
           title: "Client-satisfaction",
+          text: "Our clients are at the heart of everything we do. We work diligently to execute our clients’ matters with a high level of professionalism, crafting customized strategies that reflect their intended needs throughout the legal process.",
+        },
+        {
+          id: "a3",
+          title: "Teamwork",
           text: "Through trust, transparency and dedication to work, we combine diverse expertise to deliver the best outcomes for our clients",
         },
         {
           id: "a3",
-          title: "Responsibility",
+          title: "Responsibility.",
           text: "We take ownership of our clients work, holding ourselves accountable for delivering effective and reliable legal services",
         },
       ];
