@@ -387,7 +387,7 @@
           children: (0, n.jsxs)(c, {
             className: "".concat(d().button, " ").concat(i),
             children: [
-              "LEARN MORE",
+              "VIEW MORE",
               (0, n.jsx)(h.b9W, { size: 18, className: d().icon }),
             ],
           }),
@@ -536,18 +536,18 @@
           white: "#ffffff",
         },
         B = {
-          src: "/_next/static/media/red_lines.9add125e.svg",
-          height: 167,
-          width: 210,
-          blurWidth: 0,
-          blurHeight: 0,
+          // src: "/_next/static/media/red_lines.9add125e.svg",
+          // height: 167,
+          // width: 210,
+          // blurWidth: 0,
+          // blurHeight: 0,
         },
         z = {
-          src: "/_next/static/media/white_lines.71ed79ad.svg",
-          height: 121,
-          width: 154,
-          blurWidth: 0,
-          blurHeight: 0,
+          // src: "/_next/static/media/white_lines.71ed79ad.svg",
+          // height: 121,
+          // width: 154,
+          // blurWidth: 0,
+          // blurHeight: 0,
         },
         A = t(2430);
       let H = () => {
