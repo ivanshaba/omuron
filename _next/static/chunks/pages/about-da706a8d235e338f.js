@@ -278,7 +278,7 @@
                 className: _().button,
                 href: "/practices",
                 children: [
-                  "View our Expertise ",
+                  "Our Practices ",
                   (0, s.jsx)(p.Dwu, { className: _().icon }),
                 ],
               }),
@@ -384,7 +384,7 @@
                       (0, s.jsx)("span", { children: "" }),
                       (0, s.jsx)("p", {
                         children:
-                          "lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum",
+                          "Litigation and dispute resolution, Corporate and commercial transactions, Estate and probate administration, Land matters, Banking and finance, Energy and natural resources, Employment and pension, Tax advisory and dispute resolutions, Project finance and infrastructure.",
                       }),
                     ],
                   }),
@@ -399,7 +399,7 @@
                   (0, s.jsx)("div", {
                     className: o().imageLawcontainer,
                     children: (0, s.jsx)(a(), {
-                      src: "/Images/scale.png",
+                      src: "./_next/logo.svg",
                       width: 420,
                       height: 450,
                       alt: "Law scale image",
@@ -429,7 +429,7 @@
                         className: o().secbutton,
                         href: "/practices",
                         children: [
-                          "View our Expertise",
+                          "Our Practices",
                           (0, s.jsx)(p.Dwu, { className: o().icon }),
                         ],
                       }),
@@ -514,13 +514,13 @@
                         (0, s.jsx)("h2", { children: "Join us!" }),
                         (0, s.jsx)("p", {
                           children:
-                            "lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum ",
+                            "Our career page provides information about our current job opportunities ",
                         }),
                         (0, s.jsxs)(h, {
                           className: o().joinbutton,
                           href: "/careers",
                           children: [
-                            "See Offers ",
+                            "Work With Us ",
                             (0, s.jsx)(p.Dwu, { className: o().icon }),
                           ],
                         }),
