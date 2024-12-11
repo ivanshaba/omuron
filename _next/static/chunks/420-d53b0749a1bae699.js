@@ -9,14 +9,15 @@
         r = n.n(i);
       let a = (e) => {
         let {
-          description: t = "Signum Advocates",
+          description: t = "Omuron Advocates",
           keywords:
-            n = "Signum Advocates, law firm, Practice areas, Divorce, SEO, Uganda, Lawyers in Uganda, appeals, trademark, estate planning, legal solutions, consultancy, firms near me, litigation",
-          title: i = "Signum Advocates",
-          websiteUrl: a = "https://signumadvocates.com",
+            n = "Omuron Advocates, law firm, Practice areas, Divorce, SEO, Uganda, Lawyers in Uganda, appeals, trademark, estate planning, legal solutions, consultancy, firms near me, litigation",
+          title: i = " Omuron Advocates",
+          websiteUrl: a = "https://Omuronadvocates.com",
           imageUrl:
-            s = "https://drive.google.com/uc?export=view&id=1U1fHGIPFmFZrvFnfazP9CEhUnHlOB1WI",
-          imageAlt: c = "Signum Advocates caters for all your legal needs.",
+            s = "",
+            //  "https://drive.google.com/uc?export=view&id=1U1fHGIPFmFZrvFnfazP9CEhUnHlOB1WI",
+          imageAlt: c = "Omuron Advocates caters for all your legal needs.",
           imageWidth: m = "1280",
           imageHeight: p = "630",
           imageType: g = "image/png",
@@ -43,7 +44,7 @@
             (0, o.jsx)("meta", { name: "twitter:title", content: i }),
             (0, o.jsx)("meta", {
               name: "twitter:site",
-              content: "@signumadvocates",
+              content: "@omuronumadvocates",
             }),
             (0, o.jsx)("meta", { name: "twitter:description", content: t }),
             (0, o.jsx)("meta", { name: "twitter:image:alt", content: c }),
@@ -76,7 +77,8 @@
               rel: "icon",
               type: "image/png",
               sizes: "16x16",
-              href: "https://drive.google.com/uc?export=view&id=1Rtzn5SNLknPGsjwSx1MnW4Lr3AMeNXnH",
+              href: "",
+              // "https://drive.google.com/uc?export=view&id=1Rtzn5SNLknPGsjwSx1MnW4Lr3AMeNXnH",
             }),
           ],
         });
