@@ -135,8 +135,8 @@
         };
       let g = (e) => {
         let { size: t = 1, isRed: n = !0 } = e,
-          a = { height: 90 * t, width: 100 * t },
-          o = { height: 200 * t, width: 0 * t },
+          a = { height: 100 * t, width: 100 * t },
+          o = { height: 100 * t, width: 0 * t },
           r = { height: 70 * t, width: 0 * t };
         return (0, i.jsxs)("div", {
           style: {
@@ -284,7 +284,7 @@
                 className: s().logoContainer,
                 children: (0, i.jsx)(o(), {
                   href: "/",
-                  children: (0, i.jsx)(g, { size: 3.0 }),
+                  children: (0, i.jsx)(g, { size: 2.0 }),
                 }),
               }),
               (0, i.jsx)("div", {
