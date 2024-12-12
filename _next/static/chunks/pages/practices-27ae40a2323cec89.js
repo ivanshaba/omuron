@@ -751,7 +751,7 @@
           title: i = "Omuron and co. Advocates",
           websiteUrl: a = "https://omuronadvocates.com",
           imageUrl:
-            c = "",
+            c = "./_next/logo.svg",
             // "https://drive.google.com/uc?export=view&id=1U1fHGIPFmFZrvFnfazP9CEhUnHlOB1WI",
           imageAlt: s = "omuron Advocates caters for all your legal needs.",
           imageWidth: u = "1280",
@@ -792,29 +792,29 @@
             (0, o.jsx)("link", { rel: "canonical", href: a }),
             (0, o.jsx)("link", {
               rel: "shortcut icon",
-              href: "https://drive.google.com/uc?export=view&id=1VUqOFOvvfck5gVmKjBuett9Hs8qDuVfr",
+              href: "./_next/logo.svg",
             }),
             (0, o.jsx)("link", {
               rel: "icon",
-              href: "https://drive.google.com/uc?export=view&id=1VUqOFOvvfck5gVmKjBuett9Hs8qDuVfr",
-              type: "image/x-icon",
+              href: "./_next/logo.svg",
+              type: "./_next/logo.svg",
             }),
             (0, o.jsx)("link", {
               rel: "apple-touch-icon",
               sizes: "180x180",
-              href: "https://drive.google.com/uc?export=view&id=1CbuYpHI9gFNdtj7TbH1YP7ChizBhmkRf",
+              href: "./_next/logo.svg",
             }),
             (0, o.jsx)("link", {
               rel: "icon",
-              type: "image/png",
+              type: "./_next/logo.svg",
               sizes: "32x32",
-              href: "https://drive.google.com/uc?export=view&id=1Km_LpcITV0cwnlQi5bMP-atM4Dt2dAdc",
+              href: "./_next/logo.svg",
             }),
             (0, o.jsx)("link", {
               rel: "icon",
-              type: "image/png",
+              type: "./_next/logo.svg",
               sizes: "16x16",
-              href: "https://drive.google.com/uc?export=view&id=1Rtzn5SNLknPGsjwSx1MnW4Lr3AMeNXnH",
+              href: "./_next/logo.svg",
             }),
           ],
         });
@@ -852,8 +852,7 @@
             (0, o.jsx)(f.Z, {}),
             (0, o.jsx)("div", {
               children: (0, o.jsx)(a(), {
-                src: "",
-                //  "/Images/practiceImage.png",
+                src: "./_next/logo.svg",
                 alt: "practices image",
                 width: 500,
                 height: 250,

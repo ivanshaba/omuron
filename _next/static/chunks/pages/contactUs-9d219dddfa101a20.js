@@ -465,7 +465,7 @@
                   (0, a.jsx)(l.ff9, { color: "#1c8721", size: 30 }),
                   (0, a.jsx)("p", {
                     className: d().text,
-                    children: "Chat with us",
+                    children: "Chat on Whatsapp",
                   }),
                 ],
               }),
@@ -495,7 +495,7 @@
             children: (0, a.jsxs)(a.Fragment, {
               children: [
                 (0, a.jsx)(u.Z, {
-                  title: "SIGNUM ADVOCATES | ".concat(h.XF.ContactUs.name),
+                  title: "OMURON AND CO. ADVOCATES | ".concat(h.XF.ContactUs.name),
                   description: h.XF.ContactUs,
                   websiteUrl: "".concat(h._n).concat(h.XF.ContactUs.path),
                 }),

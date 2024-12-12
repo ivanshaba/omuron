@@ -113,17 +113,17 @@
         a = n.n(i);
       let r = (e) => {
         let {
-          description: t = "Signum Advocates",
+          description: t = "Omuron Advocates",
           keywords:
-            n = "Signum Advocates, law firm, Practice areas, Divorce, SEO, Uganda, Lawyers in Uganda, appeals, trademark, estate planning, legal solutions, consultancy, firms near me, litigation",
-          title: i = "Signum Advocates",
+            n = "Omuron Advocates, law firm, Practice areas, Divorce, SEO, Uganda, Lawyers in Uganda, appeals, trademark, estate planning, legal solutions, consultancy, firms near me, litigation",
+          title: i = "Omuron Advocates",
           websiteUrl: r = "https://omuronadvocates.com",
           imageUrl:
             o = "https://drive.google.com/uc?export=view&id=1U1fHGIPFmFZrvFnfazP9CEhUnHlOB1WI",
-          imageAlt: c = "Signum Advocates caters for all your legal needs.",
+          imageAlt: c = "Omuron Advocates caters for all your legal needs.",
           imageWidth: l = "1280",
           imageHeight: d = "630",
-          imageType: u = "image/png",
+          imageType: u = "./_next/logo.svg",
         } = e;
         return (0, s.jsxs)(a(), {
           children: [
@@ -158,29 +158,29 @@
             (0, s.jsx)("link", { rel: "canonical", href: r }),
             (0, s.jsx)("link", {
               rel: "shortcut icon",
-              href: "https://drive.google.com/uc?export=view&id=1VUqOFOvvfck5gVmKjBuett9Hs8qDuVfr",
+              href: "./_next/logo.svg",
             }),
             (0, s.jsx)("link", {
               rel: "icon",
-              href: "https://drive.google.com/uc?export=view&id=1VUqOFOvvfck5gVmKjBuett9Hs8qDuVfr",
+              href: "./_next/logo.svg",
               type: "image/x-icon",
             }),
             (0, s.jsx)("link", {
               rel: "apple-touch-icon",
               sizes: "180x180",
-              href: "https://drive.google.com/uc?export=view&id=1CbuYpHI9gFNdtj7TbH1YP7ChizBhmkRf",
+              href: "./_next/logo.svg",
             }),
             (0, s.jsx)("link", {
               rel: "icon",
               type: "image/png",
               sizes: "32x32",
-              href: "https://drive.google.com/uc?export=view&id=1Km_LpcITV0cwnlQi5bMP-atM4Dt2dAdc",
+              href: "./_next/logo.svg",
             }),
             (0, s.jsx)("link", {
               rel: "icon",
               type: "image/png",
               sizes: "16x16",
-              href: "https://drive.google.com/uc?export=view&id=1Rtzn5SNLknPGsjwSx1MnW4Lr3AMeNXnH",
+              href: "./_next/logo.svg",
             }),
           ],
         });
@@ -446,7 +446,7 @@
                         ],
                       }),
                       (0, s.jsx)(a(), {
-                        // src: "/Images/Archer.svg",
+                        src: "./_next/logo.svg",
                         width: 350,
                         height: 340,
                         alt: "Archery image",

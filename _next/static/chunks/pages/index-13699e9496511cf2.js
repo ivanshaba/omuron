@@ -780,7 +780,7 @@
                     className: s().teamIntro,
                     children: (0, n.jsx)(v, {
                       title: "Our Team",
-                      text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi maxime, suscipit veritatis porro inventore totam alias, quo nulla, autem ipsa eveniet dolore asperiores. Ipsum saepe odio minima dolores, cupiditate quo. Placeat voluptatum quasi facere! Molestias ab doloremque, sed quo unde obcaecati labore veniam? Id nulla modi rem impedit dolores totam!",
+                      text: "At Omuron and Co. Advocates, we pride ourselves on a team of highly skilled, passionate, and experienced professionals dedicated to delivering exceptional legal services. Our advocates and support staff bring a wealth of knowledge across diverse legal fields, ensuring that every client receives personalized and effective representation.We foster a culture of integrity, innovation, and collaboration, empowering our team to address complex legal challenges with precision and insight. Whether guiding individuals, businesses, or organizations, our team works tirelessly to achieve results that make a meaningful difference. Together, we are committed to upholding justice, safeguarding rights, and contributing positively to the legal landscape.",
                       className: s().layoutcard,
                       href: "/team",
                     }),

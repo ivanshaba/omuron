@@ -28,7 +28,7 @@
               (0, i.jsxs)("h4", {
                 children: [
                   (0, i.jsx)("span", { children: "• " }),
-                  " NEED TO CONNECT?",
+                  "CONNECT!",
                 ],
               }),
               (0, i.jsxs)("section", {
@@ -36,7 +36,7 @@
                 children: [
                   (0, i.jsx)("div", {
                     className: o().contact_section,
-                    children: (0, i.jsx)("h1", { children: "Let’s Talk" }),
+                    children: (0, i.jsx)("h1", { children: "Connect!" }),
                   }),
                   (0, i.jsxs)("div", {
                     className: "".concat(o().footerlink_container),
@@ -113,21 +113,21 @@
           blurHeight: 0,
         },
         f = {
-          src: "/_next/static/media/logo.svg",
+          // src: "/_next/static/media/logo.svg",
           height: 440,
           width: 3180,
           blurWidth: 0,
           blurHeight: 0,
         },
         h = {
-          src: "/_next/static/media/logo.svg",
+          // src: "/_next/static/media/logo.svg",
           height: 751,
           width: 1191,
           blurWidth: 0,
           blurHeight: 0,
         },
         m = {
-          src: "/_next/static/media/logo.svg",
+          // src: "/_next/static/media/logo.svg",
           height: 440,
           width: 3180,
           blurWidth: 0,
@@ -135,9 +135,9 @@
         };
       let g = (e) => {
         let { size: t = 1, isRed: n = !0 } = e,
-          a = { height: 120 * t, width: 100 * t },
-          o = { height: 0 * t, width: 0 * t },
-          r = { height: 70 * t, width: 70 * t };
+          a = { height: 90 * t, width: 100 * t },
+          o = { height: 200 * t, width: 0 * t },
+          r = { height: 70 * t, width: 0 * t };
         return (0, i.jsxs)("div", {
           style: {
             display: "flex",
@@ -284,7 +284,7 @@
                 className: s().logoContainer,
                 children: (0, i.jsx)(o(), {
                   href: "/",
-                  children: (0, i.jsx)(g, { size: 1.8 }),
+                  children: (0, i.jsx)(g, { size: 3.0 }),
                 }),
               }),
               (0, i.jsx)("div", {
@@ -330,7 +330,7 @@
                       children: (0, i.jsx)(_, {
                         size: 30,
                         onClick: a,
-                        color: "#950019",
+                        color: "#2f0095",
                       }),
                     }),
                     (0, i.jsx)("div", {
@@ -450,7 +450,7 @@
                 (0, i.jsx)("img", {
                   src: "/Images/site_under_maintenance/signum.svg",
                   className: o().image_logo,
-                  alt: "Signum Logo",
+                  alt: "omuron Logo",
                 }),
                 (0, i.jsxs)("div", {
                   className: o().container,
@@ -478,7 +478,7 @@
                     }),
                     (0, i.jsx)("a", {
                       className: o().anchor,
-                      href: "mailto:Info@signumadvocates.com",
+                      href: "mailto:Info@omuronadvocates.com",
                       children: "Submit",
                     }),
                   ],
@@ -552,7 +552,7 @@
       let h = {
         deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
         imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-        path: "/_next/image",
+        path: "./_next/logo.svg",
         loader: "default",
         dangerouslyAllowSVG: !1,
         unoptimized: !1,
