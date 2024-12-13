@@ -581,7 +581,7 @@
                 (0, n.jsxs)("div", {
                   className: U().content_container,
                   children: [
-                    (0, n.jsx)("p", { children: "WE ARE" }),
+                    (0, n.jsx)("p", { children: "THIS IS" }),
                     (0, n.jsx)("h1", {
                       style: { fontWeight: "bold" },
                       children: "OMURON & CO. ADVOCATES",

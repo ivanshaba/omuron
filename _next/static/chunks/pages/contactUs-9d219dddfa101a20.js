@@ -192,7 +192,7 @@
             (0, a.jsx)("meta", { name: "twitter:title", content: n }),
             (0, a.jsx)("meta", {
               name: "twitter:site",
-              content: "@signumadvocates",
+              content: "@omuronadvocates",
             }),
             (0, a.jsx)("meta", { name: "twitter:description", content: t }),
             (0, a.jsx)("meta", { name: "twitter:image:alt", content: o }),
