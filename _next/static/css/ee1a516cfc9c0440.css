@@ -459,6 +459,7 @@ a {
 .slick-dots li button:before {
   font-size: 35px;
 }
+
 @media screen and (min-width: 1024px) and (max-width: 1200px) {
   .bisonSize {
     width: 90%;

@@ -25,7 +25,7 @@
           className: "".concat(i().cardContainer, " ").concat(t),
           children: [
             (0, a.jsxs)("h2", {
-              children: ["Speak to Us ", (0, a.jsx)("br", {}), "directly"],
+              children: ["Contact", (0, a.jsx)("br", {}), "Details"],
             }),
             (0, a.jsxs)("p", {
               children: [

@@ -283,8 +283,8 @@
     url(../../../Images/castle.jpg);
   background-repeat: no-repeat;
   min-height: 100vh;
-  background-size: contain;
-  background-position: 100% 10%;
+  background-size: cover;
+  background-position: 10% 40%;
   z-index: 10;
   position: relative;
 }
@@ -337,12 +337,14 @@
   transition: all 0.5s linear 0ms;
 }
 .style_redSlantingLines__y0SdV {
+  display: none;
   position: absolute;
   bottom: 30px;
   right: 50%;
   opacity: 0.5;
 }
 .style_whiteSlantingLines__sYjjw {
+  display: none;
   position: absolute;
   top: 50%;
   right: 30%;
@@ -389,7 +391,7 @@
         hsla(0, 0%, 100%, 0.2) 21.35%,
         hsla(0, 0%, 100%, 0) 52.83%
       ),
-      url(../../../Images/face.png);
+      url(../../../Images/castle.jpg);
     background-position-x: 20%;
     min-height: 85vh;
   }
@@ -461,6 +463,7 @@
   flex-direction: row;
 }
 .style_overviewContainer__IA_5G {
+  background-color: #ffffd4b4;
   display: flex;
   min-height: 60vh;
   padding: 3rem 3rem 3rem 6.5rem;

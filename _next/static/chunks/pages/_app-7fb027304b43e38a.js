@@ -135,8 +135,8 @@
         };
       let g = (e) => {
         let { size: t = 1, isRed: n = !0 } = e,
-          a = { height: 100 * t, width: 100 * t },
-          o = { height: 100 * t, width: 0 * t },
+          a = { height: 100 * t, width: 70 * t },
+          o = { height: 0 * t, width: 0 * t },
           r = { height: 70 * t, width: 0 * t };
         return (0, i.jsxs)("div", {
           style: {
@@ -417,7 +417,7 @@
           },
           ContactUs: {
             path: "contactUs.html",
-            name: "Contact Us",
+            name: "Speak to Us",
             longDesc:
               "Have questions or need legal assistance. Our team is here to provide guidance and support- reach out to us today.",
             shortDesc:
