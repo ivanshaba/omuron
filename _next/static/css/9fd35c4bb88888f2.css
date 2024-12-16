@@ -272,13 +272,13 @@
 .style_backgroundImage__lslA6 {
   background-image: linear-gradient(
       270.17deg,
-      rgba(81, 81, 81, 0.76) 3.86%,
-      rgba(98, 98, 98, 0) 39.83%
+      rgba(255, 255, 255, 0.384) 3.86%,
+      rgba(249, 255, 187, 0) 39.83%
     ),
     linear-gradient(
       89.87deg,
-      hsla(0, 0%, 100%, 0.91) 21.35%,
-      hsla(0, 0%, 100%, 0) 52.83%
+      hsla(59, 100%, 87%, 0.63) 21.35%,
+      hsla(0, 0%, 1%, 0) 52.83%
     ),
     url(../../../Images/castle.jpg);
   background-repeat: no-repeat;
@@ -296,11 +296,11 @@
 }
 .style_content_container__D8H8D > h1 {
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 3rem;
   color: #2f0095;
   margin-bottom: 1.5rem;
-  z-index: 10;
+  z-index: 10000;
 }
 .style_content_container__D8H8D > p {
   font-size: 1.2rem;
@@ -309,8 +309,8 @@
 }
 .style_content_container__D8H8D > span {
   font-size: var(--fontsize_small);
-  font-weight: 400;
-  color: #676767;
+  font-weight: 500;
+  color: #000000;
   line-height: 30px;
   z-index: 10;
 }
@@ -463,7 +463,7 @@
   flex-direction: row;
 }
 .style_overviewContainer__IA_5G {
-  background-color: #ffffd4b4;
+  background-color: #ffffce56;
   display: flex;
   min-height: 60vh;
   padding: 3rem 3rem 3rem 6.5rem;
@@ -494,7 +494,7 @@
   max-width: 30%;
 }
 .style_practice_container__80oow {
-  background: #e5e5e5;
+  background: #ffffce56;
   min-height: 60vh;
   padding: 0 3rem 3rem 6.5rem;
   display: flex;
@@ -559,6 +559,7 @@
 }
 .style_footer__p6SeT {
   background: #fff;
+  background-color: #ffffce56;
   height: -moz-fit-content;
   height: fit-content;
   color: #fff;

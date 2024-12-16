@@ -588,7 +588,7 @@
                     }),
                     (0, n.jsx)("span", {
                       children:
-                        'Omuron and Company Advocates was established in 2020 with the aim of delivering impeccable legal services to its clients. As a dynamic law firm, we have quickly established ourselves as trust worthy partners known for providing innovative legal solutions and ensuring client satisfaction.',
+                        'At Omuron and Company Advocates, we provide customized legal solutions designed to address our clients’ legal needs. Our team of skilled legal professionals is dedicated to providing contemporary, client focused strategies tailored to meet the unique needs of each individual case. We blend extensive legal knowledge with a practical approach to ensure our clients receive top-tier advice and representation.',
                     }),
                     (0, n.jsx)(m, { href: "/about" }),
                   ],
@@ -723,7 +723,7 @@
                     className: s().overviewIntro,
                     children: (0, n.jsx)(v, {
                       title: "Overview",
-                      text: "At Omuron and Company Advocates, we provide customized legal solutions designed to address our clients’ legal needs. Our team of skilled legal professionals is dedicated to providing contemporary, client focused strategies tailored to meet the unique needs of each individual case. We blend extensive legal knowledge with a practical approach to ensure our clients receive top-tier advice and representation.",
+                      text: "Omuron and Company Advocates was established in 2020 with the aim of delivering impeccable legal services to its clients. As a dynamic law firm, we have quickly established ourselves as trust worthy partners known for providing innovative legal solutions and ensuring client satisfaction.",
                       href: "/about",
                     }),
                   }),
