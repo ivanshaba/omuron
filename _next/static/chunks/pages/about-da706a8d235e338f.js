@@ -372,7 +372,7 @@
                       (0, s.jsx)("span", { children: "" }),
                       (0, s.jsxs)("p", {
                         children: [
-                          "Established in 2020.  ",
+                          // "Established in 2020.  ",
                           (0, s.jsx)("br", {}),
                           "",
                         ],
@@ -383,8 +383,8 @@
                     children: [
                       (0, s.jsx)("span", { children: "" }),
                       (0, s.jsx)("p", {
-                        children:
-                          "Litigation and dispute resolution, Corporate and commercial transactions, Estate and probate administration, Land matters, Banking and finance, Energy and natural resources, Employment and pension, Tax advisory and dispute resolutions, Project finance and infrastructure.",
+                        children: "",
+                          // "Litigation and dispute resolution, Corporate and commercial transactions, Estate and probate administration, Land matters, Banking and finance, Energy and natural resources, Employment and pension, Tax advisory and dispute resolutions, Project finance and infrastructure.",
                       }),
                     ],
                   }),

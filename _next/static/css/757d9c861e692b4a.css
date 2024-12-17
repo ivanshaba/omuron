@@ -1,8 +1,12 @@
 .style_nav__mhziF {
+  background-color: #ffffce86;
+
   min-height: 30vh;
 }
 .style_withBackground__tMv_r {
-  background-color: #f5f5f5;
+  /* background-color: #f5f5f5; */
+  background-color: #ffffce86;
+  
 }
 .style_logo__Cj1J6 {
   border: 1px solid #000;
